@@ -1,4 +1,4 @@
-public class Main {
+public class HelloWorld{
     static String text="Hello world! Welcome!";
     public static void main(String[] args) {
         int number;
